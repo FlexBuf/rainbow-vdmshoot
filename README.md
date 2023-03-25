@@ -1,2 +1,2 @@
 # rainbow-vdmshoot
-Funcion sencilla que bloquea la molesta mecanica de movimiento lento que incluye GTA cuando tu personaje termina de disparar, tambien incluye un nativo para reducir el daño recibido al ser atropellado (VDM)
+Simple function that blocks the annoying slow movement mechanic that GTA includes when your character finishes shooting, it also includes a native to reduce the damage received when being run over (VDM)
